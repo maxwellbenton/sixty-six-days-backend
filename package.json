@@ -1,0 +1,24 @@
+{
+  "name": "sixty-six-days-backend",
+  "version": "1.0.0",
+  "description": "expres backend for sixty six days",
+  "main": "server.js",
+  "scripts": {
+    "test": "console.log('heu u')",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxwellbenton/sixty-six-days-backend.git"
+  },
+  "keywords": [
+    "sixtysix",
+    "self-improvement"
+  ],
+  "author": "Maxwell Benton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxwellbenton/sixty-six-days-backend/issues"
+  },
+  "homepage": "https://github.com/maxwellbenton/sixty-six-days-backend#readme"
+}
